@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Bingo
+Allows you to play Bingo with your friends
